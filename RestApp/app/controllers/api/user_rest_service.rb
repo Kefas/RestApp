@@ -1,0 +1,3 @@
+class UserRestService < ApplicationController
+
+end
